@@ -17,8 +17,8 @@ amount, respectively.
 - [] code for MTDNN
 
 #results on CSI-2016
-![image](https://github.com/marscrazy/MTDNN/blob/master/pics/csi2016.png)
-![image](https://github.com/marscrazy/MTDNN/blob/master/pics/csi2016.png)
+![Image text](https://github.com/marscrazy/MTDNN/blob/master/pics/csi2016.png)
+![Image text](https://github.com/marscrazy/MTDNN/blob/master/pics/csi2016-2.png)
 
 #Citation
 Please cite this paper if you use CSI-2016.
