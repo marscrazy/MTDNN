@@ -9,20 +9,20 @@ Index SZ399005 and ChiNext Price Index SZ399006. It
 has over 170, 000 samples spanning a year from January
 1st, 2016, to December 30th, 2016. Each sample is a one minute data of
 6 dimensions which are high, low, open, close, volume and
-amount, respectively.
+amount, respectively.R
 
 # TODO
 - [] code for xgboost
 - [] code for CNN-based model
 - [] code for MTDNN
 
-#results on CSI-2016
+# esults on CSI-2016
 
 ![Image text](https://github.com/marscrazy/MTDNN/blob/master/pics/csi2016.png)
 
 ![Image text](https://github.com/marscrazy/MTDNN/blob/master/pics/csi2016-2.png)
 
-#Citation
+# Citation
 Please cite this paper if you use CSI-2016.
 ```
 @inproceedings{DBLP:conf/ijcai/LiuMSHGLSLW20,
