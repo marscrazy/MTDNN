@@ -16,7 +16,7 @@ amount, respectively.R
 - [] code for CNN-based model
 - [] code for MTDNN
 
-# esults on CSI-2016
+# Results on CSI-2016
 
 ![Image text](https://github.com/marscrazy/MTDNN/blob/master/pics/csi2016.png)
 
