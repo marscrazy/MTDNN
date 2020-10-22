@@ -1,5 +1,5 @@
 # MTDNN
-This is implementation of Multi-scale Two-way Deep Neural Network
+This is implementation of Multi-scale Two-way Deep Neural Network [paper](https://www.ijcai.org/Proceedings/2020/0628.pdf)
 
 # Benchmark dataset CSI-2016
 > CSI-2016 is our collected dataset from three one-minute
