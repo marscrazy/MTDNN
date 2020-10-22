@@ -11,6 +11,14 @@ has over 170, 000 samples spanning a year from January
 6 dimensions which are high, low, open, close, volume and
 amount, respectively.R
 
+# Requirements
+For load CSI-2016
+```
+PyWavelets
+Numpy
+path.py
+```
+
 # TODO
 - [] code for xgboost
 - [] code for CNN-based model
